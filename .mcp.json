@@ -1,0 +1,9 @@
+{
+  "hx-remote": {
+    "command": "node",
+    "args": ["${CLAUDE_PLUGIN_ROOT}/servers/hx-remote-server.js"],
+    "env": {
+      "HX_REMOTE_BIN": "${HX_REMOTE_BIN}"
+    }
+  }
+}

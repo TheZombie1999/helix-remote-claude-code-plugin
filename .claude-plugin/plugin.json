@@ -1,0 +1,13 @@
+{
+  "name": "hx-remote",
+  "version": "0.1.0",
+  "description": "Query and control a running Helix editor instance (cursor, selection, diagnostics, buffers) from Claude Code via hx-remote/D-Bus.",
+  "author": {
+    "name": "TheZombie1999"
+  },
+  "homepage": "https://github.com/TheZombie1999/hexlix-remote-claude-code-plugin",
+  "repository": "https://github.com/TheZombie1999/hexlix-remote-claude-code-plugin",
+  "license": "MIT",
+  "keywords": ["helix", "editor", "dbus", "mcp", "hx-remote"],
+  "mcpServers": "./.mcp.json"
+}

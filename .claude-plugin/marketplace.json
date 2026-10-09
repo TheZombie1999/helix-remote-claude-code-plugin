@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "hx-remote",
+  "owner": {
+    "name": "TheZombie1999"
+  },
+  "plugins": [
+    {
+      "name": "hx-remote",
+      "description": "Query and control a running Helix editor instance (cursor, selection, diagnostics, buffers) from Claude Code via hx-remote/D-Bus.",
+      "source": "./"
+    }
+  ]
+}
